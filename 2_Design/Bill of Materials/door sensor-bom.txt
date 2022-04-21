@@ -1,0 +1,9 @@
+
+Circuit: Door sensor.simu
+
+Bill of Materials:
+
+Led-3 : Led   
+Resistor-2 : Resistor 100 Ω
+Switch-11 : Switch   
+atmega328-1 : atmega328   
