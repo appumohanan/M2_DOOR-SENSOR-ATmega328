@@ -19,17 +19,6 @@
 | `4_TestplanAnd Output`      | Documents with test plans and procedures
 
 ## SWOT- Strengths, and Weakness, Opportunities Threats
-### Strengths
-- User Friendly
-- Modular Approach
-- Low cost and Robust system.
-
-### Weakness
-- It can ba only use for single home
-### Opportunities
-- It can be implemented other than house.
-### Threats
-- sometimes it may not be work.
 
 # 4W's and 1'H
 ## Who:  
