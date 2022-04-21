@@ -18,7 +18,9 @@
 | `3_Implementation` | All code and documentation|
 | `4_TestplanAnd Output`      | Documents with test plans and procedures
 
-## SWOT- Strengths, and Weakness, Opportunities Threats
+## SWOT Analysis
+
+![door sensor](https://user-images.githubusercontent.com/80033796/164544892-334a1838-f432-407e-a205-eb1bc3b99512.png)
 
 # 4W's and 1'H
 ## Who:  
