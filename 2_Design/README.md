@@ -6,4 +6,7 @@
 
 ## BEHAVIORAL DIAGRAM
 
+![Behavioral diagram ](https://user-images.githubusercontent.com/80033796/164675157-1f8a6e20-5042-4c0e-b4d4-1df6f00ac6d9.png)
+
+
 
