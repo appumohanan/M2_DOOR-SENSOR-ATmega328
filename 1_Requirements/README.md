@@ -22,17 +22,19 @@
 
 ![door sensor](https://user-images.githubusercontent.com/80033796/164544892-334a1838-f432-407e-a205-eb1bc3b99512.png)
 
-# 4W's and 1'H
-## Who:  
-This Device can be used by anyone, It is easy to use .
-## What:
-The Temperature measurement using atmega328 is capable of maintaining the proper temperature inside the bus what this system will do it will sense the temperature inside the Bus using temperature sensor (LM 35) and it will give the signal to fan which will get switched ONN and Off accourding to requirement  .
-## When:
-It is made as a part of LTTS Step-in Mini Project work.
-## Where:
-It's made using Visual Studio Code IDE on Windows 10.
-## How:
-A simple algorithm is used which has a simple Temperature measurement code and can analyse the input and give the result.
+## 4W's and 1'H
+
+ ### Who:- 
+   This tool is a helping hand for the people who have security concerns.
+ ### Where:-
+   Can be used at home,banks,hostels,organisations to keep a track on unknown entries.
+ ### When:-
+   Can be used to protect valuable things.
+ ### Why:-
+   To detect ehenever a person enters a room/home.
+ ### How:-
+   By using Embedded C programming and SimulIDE.
+
 
 ## Detail requirements
 ### High Level Requirements
