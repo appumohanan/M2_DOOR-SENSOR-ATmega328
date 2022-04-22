@@ -11,6 +11,15 @@
 - Modular Approach.
 - Door sensors are an essential component of your home security system: they let you know when someone is entering your home. These devices are made up of two parts, which form a circuit when they’re kept parallel to each other. 
 
+## Benefits
+    The main aim is to develop a simple door sensor to let you know when someone is entering your home.
+    
+ ## Cost and Features
+     There is no cost for using this sensor.
+ ### Features
+ * To safeguard valuable things.
+ * To keep us alert when someone enters the place.
+
 ## Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
